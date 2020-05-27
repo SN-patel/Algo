@@ -14,7 +14,7 @@ namespace ALGO
 
             //Console.WriteLine(MaxStockPrice(new int[]{5,4,3,2,1}));
         }
-
+        //Here goes the array problems
         public static bool IsOneEdit(string s1,string s2){
             int l1 = s1.Length;
             int l2 = s2.Length;
