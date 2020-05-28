@@ -16,6 +16,7 @@ namespace ALGO
         }
 
         //Array problems
+        //Commit on master 1
         public static bool IsOneEdit(string s1,string s2){
             int l1 = s1.Length;
             int l2 = s2.Length;
